@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CrudFuncionario
+comment1.params=conexao
+comment1.target=CrudFuncionario(java.sql.Connection)
+comment2.params=id_func\ id_cliente
+comment2.target=boolean\ create(int,\ int)
+comment3.params=id_func
+comment3.target=boolean\ read(int)
+comment4.params=id_func\ novocliente
+comment4.target=boolean\ update(int,\ java.lang.String)
+comment5.params=id_func
+comment5.target=boolean\ delete(int)
+numComments=6

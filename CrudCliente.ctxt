@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CrudCliente
+comment1.params=conexao
+comment1.target=CrudCliente(java.sql.Connection)
+comment2.params=id_cliente\ nome
+comment2.target=boolean\ create(int,\ java.lang.String)
+comment3.params=id_cliente
+comment3.target=boolean\ read(int)
+comment4.params=id_cliente\ novoNome
+comment4.target=boolean\ update(int,\ java.lang.String)
+comment5.params=id_cliente
+comment5.target=boolean\ delete(int)
+numComments=6
